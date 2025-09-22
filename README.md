@@ -37,7 +37,19 @@ every()
      <img width="917" height="223" alt="image" src="https://github.com/user-attachments/assets/c62aa56c-f4ce-4f6f-b25c-a771c1044753" />
    * Screenshot Hasil
      <img width="914" height="155" alt="image" src="https://github.com/user-attachments/assets/709e1b18-40c6-4569-9ec8-bb0715d12ebc" />
-5. some() : 
+5. some() : Mengecek apakah ada minimal satu elemen dalam array yang memenuhi kondisi (true atau false). Contohnya Cek apakah ada artis dengan lebih dari 110 juta listeners dalam database;
+   * Screenshot kode program
+     <img width="1039" height="197" alt="image" src="https://github.com/user-attachments/assets/28225049-1291-4fc0-ad7f-353c94d2177d" />
+   * Screenshot Hasil
+     <img width="633" height="127" alt="image" src="https://github.com/user-attachments/assets/cfdbe25a-dd88-45d5-ad99-3c2475bb9886" />
+6. every() : Mengecek apakah semua elemen array memenuhi kondisi yang diminta (true atau false). Contohnya, Cek semua artis yang punya lebih dari 80 juta listeners;
+   * Screenshot kode program
+     <img width="1128" height="222" alt="image" src="https://github.com/user-attachments/assets/2d6e8e06-bfec-4cbb-979e-61da885cdc0a" />
+   * Screenshot Hasil
+     <img width="764" height="286" alt="image" src="https://github.com/user-attachments/assets/fa26a7f7-ddd6-4a77-bd9d-d660e7d07e24" />
+
+     
+
 
 
 
